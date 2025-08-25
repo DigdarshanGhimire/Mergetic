@@ -1,2 +1,2 @@
 # Mergetic
-Teamwork platform for all the developers around the world
+Mergetic is a teamwork and collaborative platform for all the deveopers around the globe.
